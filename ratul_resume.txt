@@ -1,0 +1,67 @@
+                                        Ratul Esrar
+            729 Escondido Rd. Apt 414, Stanford, CA 94305 | 405-562-0525 | ratulesrar@gmail.com
+
+
+EDUCATION                               PROFESSIONAL
+THE UNIVERSITY OF CHICAGO               KAISER PERMANENTE
+MS IN COMPUTATIONAL ANALYSIS & SENIOR DATA ANALYST
+PUBLIC POLICY (MSCAPP)         March 2020 – Present | Oakland, CA
+June 2018 | Chicago, IL                 The Permanente Medical Group (TPMG) Consulting Services
+The Harris School of Public Policy        • Developed complex reporting programs in SAS, SQL, and Tableau, leveraging
+                                             automation and macros, to enable population health management reporting
+BA IN ECONOMICS                           • Informed regional and local strategy around telehealth and interpreter services
+June 2017 | Chicago, IL                      during COVID-19 pandemic, leveraging user-friendly actionable analysis
+Minor in Statistics
+Dean’s List 2013-2017                   SAGENCE CONSULTING
+                                        SENIOR DATA ANALYST
+BOCCONI UNIVERSITY
+                                        June 2018 – March 2020 | Chicago, IL
+Fall 2015 | Milan, IT
+                                        Healthcare • Business Intelligence
+Business Exchange Program
+                                           • Leveraged SQL and Tableau visualizations to develop data quality and patient
+                                             safety dashboards that provide real-time tracking of quality and safety metrics
+SKILLS                                     • Built ETL jobs using Talend to load vendor systems data into a centralized data
+PROGRAMMING                                  warehouse (EDW) to enable more accurate research/ﬁnancials reporting
+Python (numpy, pandas, sklearn, nltk)   Real Estate • Data Modeling
+SQL (Postgres, MS SQL Server, Oracle)      • Designed an enterprise data model (EDM) for multi-family real estate
+R (ggplot, shiny, dplyr)                     properties to enable business intelligence and reporting capabilities
+AWS (EC2, S3, Redshift)                 Insurance • Data Strategy & Compliance
+Stata • LATEX                              • Planned and conducted an organization-wide assessment of data consumption
+SOFTWARE                                     to understand the periodic decisions each business unit makes and the data
+Tableau • Salseforce                         (e.g. KPIs, metrics) required to make those decisions
+Alteryx • Talend
+Microsoft Ofﬁce • Google Suite
+Adobe Photoshop & Illustrator
+                                        RESEARCH
+                                        LONDON BUSINESS SCHOOL DEPARTMENT OF FINANCE
+                                        RESEARCH ASSISTANT FOR PROF. ROBERTO GOMEZ CRAM
+COURSEWORK                              February 2020 – May 2020 | London, UK
+GRADUATE                                Relating FOMC Emotions to Company Asset Prices
+Econometrics & Program Evaluation          • Created a deep learning pipeline for facial emotion recognition (FER) of Federal
+Natural Language Processing (NLP)            Reserve Open Market Committee (FOMC) meeting videos; reviewed academic
+Machine Learning for Public Policy           literature relating consumer product reviews and tweets to asset prices
+Survey Questionnaire Design
+Polling for Political Campaigns         CENTER FOR DATA SCIENCE AND PUBLIC POLICY (DSAPP)
+Mobile Computing                        MACHINE LEARNING FOR PUBLIC POLICY • COURSE PROJECT
+Data Visualization                      April 2018 – June 2018 | Chicago, IL
+Databases                               Predicting Post-Release Interactions with Mental Health Systems
+                                           • Identiﬁed Johnson County inmates who are more likely to enter the county
+UNDERGRADUATE
+                                              mental health system within year of release from jail using rich feature set
+Microeconomics & Macroeconomics
+                                              created based on information available to the jail system at the time of release
+Applied Regression Analysis
+Categorical Data Analysis                  • Informed research efforts on how likely a recently released inmate is to access
+Computer Science & Applications I-II          mental health services, allowing for more targeted interventions in an attempt
+Politics & Policy                             to smooth re-entry into everyday life for releasees and reduce recidivism
+Financial Accounting
+                                        SAND (SYSTEMS, ALGORITHMS, NETWORKING AND DATA) LAB
+Corporate Finance
+                                        RESEARCH ASSISTANT (LOCALIZATION)
+                                        January 2018 – March 2018 | Chicago, IL
+LINKS                                   Detection of Hidden Wi-Fi Cameras: CamBurglar
+Github:// ratulesrar3                      • Trained a classiﬁcation tool that tracks transmissions sent to a wireless access
+LinkedIn:// ratulesrar                       point in order to predict the type of device sending each web request
+Twitter:// @ratulesrar3
+
